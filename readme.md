@@ -40,5 +40,5 @@ node shard.js
 
 Nesmon (read code)
 
-Hyprimort (For the link and small information)
+@thomasbnt the link and small information)
 
