@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-shard-bot",
+  "version": "1.0.0",
+  "description": "a example of use shard for discordjs",
+  "main": "shard.js",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node shard.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesmon/discordjs-shard-bot.git"
+  },
+  "author": "nesmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nesmon/discordjs-shard-bot/issues"
+  },
+  "homepage": "https://github.com/nesmon/discordjs-shard-bot#readme"
+}
