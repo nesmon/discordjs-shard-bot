@@ -5,8 +5,8 @@ const config = require("./config.json");
 const prefix = config.prefix;
 
 const client = new Discord.Client({
-  shardId: process.argv[2],
-  shardCount: process.argv[3],
+  shardId: process.argv[1],
+  shardCount: process.argv[2],
   fetchAllMembers: true
 });
 
